@@ -1,0 +1,34 @@
+<resources>
+    <!--Default-->
+    <string name="app_name">Tic Tac Toe</string>
+    <!--Link-->
+    <string name="app_link">https://play.google.com/store/apps/details?id=com.martiandeveloper.tictactoe</string>
+    <string name="facebook">https://www.facebook.com/Martian-Developer-112019446941119/</string>
+    <string name="instagram">https://www.instagram.com/martiandeveloper/</string>
+    <string name="twitter">https://twitter.com/Murad58349993/</string>
+    <string name="whatsapp">tel:+994554987507</string>
+    <string name="website">http://martiandeveloper.com/</string>
+    <string name="email">app.martiandeveloper@gmail.com</string>
+    <string name="google_play">https://play.google.com/store/apps/dev?id=6834191715264686209</string>
+    <string name="privacy_policy_link">https://simpletictactoegame.blogspot.com/p/privacy-policy-martiandeveloper-built.html</string>
+    <!--Ad-->
+    <string name="tictactoe_main_banner">ca-app-pub-3531666375863646/7028779640</string>
+    <!--In App-->
+    <string name="your_turn">Your turn…</string>
+    <string name="androids_turn">Android\'s turn…</string>
+    <string name="you_win">You win</string>
+    <string name="android_win">Android win</string>
+    <string name="restart">Restart</string>
+    <string name="exit">Exit</string>
+    <string name="equal">Equal</string>
+    <string name="about">About</string>
+    <string name="other_apps">Click here to see our other apps</string>
+    <string name="contact_us">Contact us</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="copyright1">© Copyright</string>
+    <string name="copyright2">All rights reserved</string>
+    <string name="credit">Credit</string>
+    <string name="icon">Icon: www.flaticon.com</string>
+    <string name="send_via">Send via</string>
+    <string name="rate_us">Rate us</string>
+</resources>
